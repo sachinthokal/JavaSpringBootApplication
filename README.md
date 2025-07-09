@@ -1,1 +1,7 @@
-# java_demo_app
+#     JavaSpringBootApplication
+
+
+```bash
+Problem Statment 
+
+```
