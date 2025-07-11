@@ -1,8 +1,8 @@
-# 🐳 Problem Statement 1: Dockerize Simple Java App
+# 🐳 Problem Statement : Dockerize Simple Java App
 
-## 📌 Objective
+## 🎯 Your Task
 
-A client has provided a plain Java project in the form of a `.jar` file. The task is to:
+> Client Requirement: _"client has provided a plain Java project in the form of a `.jar` file. The task is to:"_
 
 - Write a `Dockerfile` to run the `.jar` file
 - Build the Docker image
